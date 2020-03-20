@@ -11,7 +11,7 @@
 In this lab you'll migrate a database from SQL Server 2008 to [Azure SQL Database Managed Instance](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-managed-instance).  
 
 
-(<a href="https://github.com/microsoft/sqlworkshops/blob/master/SQLGroundToCloud/sqlgroundtocloud/00-Pre-Requisites.md" target="_blank">Make sure you check out the <b>Prerequisites</b> page before you start</a>. You'll need all of the items loaded there before you can proceed with the workshop.)
+(<a href="https://github.com/microsoft/sqlworkshops-azuresqllabs/blob/master/lab-files/Module4and5Prerequisites.md" target="_blank">Make sure you check out the <b>Prerequisites</b> page before you start</a>. You'll need all of the items loaded there before you can proceed with the workshop.)
 
 In this lab you will use the [Azure Database Migration Service](https://azure.microsoft.com/services/database-migration/) (DMS) to migrate the `TailspinToys` database from an on-premises SQL 2008 R2 database to SQL MI. At the end of the Lab, you'll also explore some of the security and performance features available. 
 
@@ -900,7 +900,7 @@ In this task, you will refresh the Leaderboard report in the Tailspin Toys web a
 
 
 > **Note**:  
-> If you are attending this lab as part of a day-long workshop, this may still read as READ-WRITE, if the lab was configured using [Instance Pools](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-instance-pools), since Instance Pools currently only support General Purpose (not Business Critical which is needed here). You have finished the activities for Module 5. [Return to it here](https://github.com/microsoft/sqlworkshops/blob/master/SQLGroundToCloud/sqlgroundtocloud/05-MigratingToAzureSQL.md#54-after-the-migration), review, and refer to instructor guidance.
+> If you are attending this lab as part of a day-long workshop, this may still read as READ-WRITE, if the lab was configured using [Instance Pools](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-instance-pools), since Instance Pools currently only support General Purpose (not Business Critical which is needed here). You have finished the activities for Module 5. [Return to it here](https://github.com/microsoft/sqlworkshops-sqlg2c/blob/master/sqlgroundtocloud/05-MigratingToAzureSQL.md#54-after-the-migration), review, and refer to instructor guidance.
 
 <br>
 <p style="border-bottom: 1px solid lightgrey;"></p>

@@ -23,7 +23,7 @@ In this Lab, you'll learn how to assess your on-premises estate (via Tailspin To
 &ensp;&ensp;&ensp;[Activity 4](#Activity-4): **Assess:** Perform assessment for migration to Azure SQL Database Managed Instance  
 
 
-(<a href="https://github.com/microsoft/sqlworkshops/blob/master/SQLGroundToCloud/sqlgroundtocloud/00-Pre-Requisites.md" target="_blank">Make sure you check out the <b>Prerequisites</b> for this lab before you start</a>. You'll need all of the items loaded there before you can proceed. You can try this lab on your own or led by an instructor.)
+(<a href="https://github.com/microsoft/sqlworkshops-azuresqllabs/blob/master/lab-files/Module4and5Prerequisites.md" target="_blank">Make sure you check out the <b>Prerequisites</b> for this lab before you start</a>. You'll need all of the items loaded there before you can proceed. You can try this lab on your own or led by an instructor.)
 
 <p style="border-bottom: 1px solid lightgrey;"></p>
 
@@ -363,7 +363,7 @@ With one PaaS offering ruled out due to feature parity, you will now perform a s
     ![Azure Migrate Tailspin Toys details](https://github.com/microsoft/sqlworkshops/blob/master/AzureSQLLabs/graphics/azure-migrate-tailspin.png?raw=true "Azure Migrate")  
 
 > **Note**:  
-> If you are attending this lab as part of a day-long workshop, you have finished the activities for Module 4. [Return to it here](https://github.com/microsoft/sqlworkshops/blob/master/SQLGroundToCloud/sqlgroundtocloud/04-SQLServerOnTheMicrosoftAzurePlatform.md#activity-4-perform-assessment-for-migration-to-azure-sql-database-managed-instance), review, and refer to instructor guidance.  
+> If you are attending this lab as part of a day-long workshop, you have finished the activities for Module 4. [Return to it here](https://github.com/microsoft/sqlworkshops-sqlg2c/blob/master/sqlgroundtocloud/04-SQLServerOnTheMicrosoftAzurePlatform.md#activities), review, and refer to instructor guidance.  
 
 <p style="border-bottom: 1px solid lightgrey;"></p>
 
@@ -381,4 +381,4 @@ With one PaaS offering ruled out due to feature parity, you will now perform a s
 
 <p><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/sqlworkshops/blob/master/graphics/geopin.png?raw=true"><b >Next Steps</b></p>
 
-You can use this assessment to determine to move the database to Azure SQL Managed Instance. If you would like to complete a lab on that topic, navigate to <a href="https://github.com/microsoft/sqlworkshops/blob/master/AzureSQLLabs/Lab-MigratingToAzureSQLManagedInstance.md" target="_blank"><i> Lab - Migrating to Azure SQL Managed Instance</i></a>.
+You can use this assessment to determine to move the database to Azure SQL Managed Instance. If you would like to complete a lab on that topic, navigate to <a href="https://github.com/microsoft/sqlworkshops-azuresqllabs/blob/master/Lab-MigratingToAzureSQLManagedInstance.md" target="_blank"><i> Lab - Migrating to Azure SQL Managed Instance</i></a>.
