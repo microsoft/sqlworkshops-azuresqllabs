@@ -578,7 +578,7 @@ In this activity, you will create an RDP connection to the JumpBox VM, and then 
 8. Once logged in, the repository containing all of these files can be cloned to `C:/users/`[username]`/sqlworkshops/SQLGroundtoCloud` by opening the command prompt and running the following command:
 
 ```cmd
-git clone https://github.com/microsoft/sqlworkshops.git
+git clone https://github.com/microsoft/sqlworkshops-azuresqllabs.git
 ```
 
 > **Note**:  
